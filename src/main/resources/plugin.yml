@@ -1,0 +1,5 @@
+name: NaturalKeepInv
+version: '${project.version}'
+main: me.invalidse.naturalkeepinv.NaturalKeepInv
+api-version: 1.19
+authors: [ InvalidSE ]

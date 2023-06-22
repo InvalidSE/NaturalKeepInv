@@ -18,7 +18,7 @@ public final class NaturalKeepInv extends JavaPlugin {
         Team KeepInv = board.registerNewTeam("keep_inventory");
         KeepInv.setDisplayName("Keep Inventory");
 
-        System.out.println("NaturalKeepInv by InvalidSE Enabled (InvalidSE#8824 on Discord)");
+        System.out.println("NaturalKeepInv by InvalidSE Enabled (InvalidSE on Discord)");
         PluginManager pm = this.getServer().getPluginManager();
         pm.registerEvents(new Listeners(), this);
     }
